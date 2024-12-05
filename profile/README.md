@@ -13,18 +13,14 @@ Why HubSpot? Because HubSpot is where the marketers, sales people and customer r
 Tikita is building Apps for Shopify<br>
 Why Shopify? From building tools that could be a solution to a store owner's problem or save them some time, tech doesn't need to be so complicated - I want to help make that experience better.
 - Wishlist Buddy - ```COMING SOON``` - It's simple, it's free. It's the easiest way to let customers save their favourites and return ready to buy. Tell us what features you want to see!
-
+<br>
 
 > This future is not AI.
 > This future is not autonomous robots.
 > This future is us.
-> 
 > Maybe one day these technologies will be that good, but until then the future is the augmented professional.
-
 > The software programmer enhanced with AI.
 > The customer service rep with a team of AI customer agents.
 > The engineer with a team of construction robots.
-
 > A humanity enhanced by technology like never before, for the good of all.
-
 > Our mission is to create those augmentations.
