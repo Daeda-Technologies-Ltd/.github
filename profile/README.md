@@ -12,7 +12,8 @@ Why HubSpot? Because HubSpot is where the marketers, sales people and customer r
 # Tikita Tolley
 Tikita is building Apps for Shopify<br>
 Why Shopify? From building tools that could be a solution to a store owner's problem or save them some time, tech doesn't need to be so complicated - I want to help make that experience better.
-- [Daeda Wishlist](https://apps.shopify.com/daeda-wishlist) - It's simple, it's free up to 100 wishlist items/customer. It's the easiest way to let customers save their favourites and return ready to buy. Tell us what features you want to see!
+- [Daeda Wishlist](https://apps.shopify.com/daeda-wishlist) - It's simple, it's free up to 100 wishlist items/customer. It's the easiest way to let customers save their favourites and return ready to buy + get all events in Klaviyo!
+- **Daeda Sales Tracker** - `Coming Soon!` - Your store's stats delivered to Google Sheets at the time best for you - no dashboards, no exports. Just wake up to fresh numbers ready for your morning spreadsheets!
 <br>
 
 > This future is not AI.
