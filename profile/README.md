@@ -45,7 +45,7 @@ From building GPTs that solve real problems to automations that save precious ti
 | Recipe Rummage | 🍳 Discover delicious dishes hiding in your kitchen - no grocery run required! | [Try it](https://chatgpt.com/g/g-67e10ac985588191b3f0c427e5b57919-recipe-rummage) |
 | Stardew Valley Wiki Chatbot | 🌱 Ask any questions about the Stardew Valley game! (1K+ conversations) | Coming back soon! |
 | Quacksheet Financial Advisor | 🦆 Sharp, practical financial advice - with a quirky duck twist. | [Demo](https://www.linkedin.com/posts/tikita-tolley-3bbb39233_customgpt-aitools-gpt-activity-7312413428285919232-gTvO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpd5f8BgULeY2TQ0j-sNEyL7q-gFOtAusQ) |
-| Learning Roadmap | 🗺️ Your personalized blueprint for mastering any skill, step by step. | Coming Soon |
+| Learning Roadmap | 🗺️ Your personalized blueprint for mastering any skill, step by step. | [Try it](https://chatgpt.com/g/g-67eb6e1d37fc81918dd5f21530a297c3-learning-roadmap) |
 
 ##### Shopify Apps
 
