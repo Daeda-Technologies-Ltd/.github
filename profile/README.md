@@ -13,16 +13,35 @@ We're a team of two building:
 ### Why HubSpot?
 Because HubSpot is where the marketers, sales people and customer reps are - those are the people who benefit most from new tech without being techies.
 
+---
+### Daeda MCP
+
+Our [MCP server](https://www.npmjs.com/package/daeda-mcp) that syncs your HubSpot CRM to a local encrypted database, enabling AI assistants to query your contacts, companies, and deals instantly.
+
+![npm version](https://img.shields.io/npm/v/daeda-mcp?style=flat-square&logo=npm&color=cb3837) 
+![npm downloads](https://img.shields.io/npm/dt/daeda-mcp?style=flat-square&color=cb3837)
+![npm](https://img.shields.io/npm/l/daeda-mcp?style=flat-square&color=cb3837)
+
+---
 ### Our Apps
 
 | Project | What it Does | Try It |
 |---------|-------------|--------|
 | Daeda Essentials | Powerful workflow nodes to level-up your automation game | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/daeda-essentials?utm_source=company_github_readme) |
-| Out of Office Workflows | Actions to make dealing with out of office easier | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/out-of-office?utm_source=company_github_readme) |
+| Smart Lead & Ticket Routing | Actions to make dealing with out of office easier | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/smart-lead-ticket-routing-by-daeda?utm_source=company_github_readme) |
 | Clean Dial | Validate and format phone numbers | [Learn more](https://www.daeda.tech/projects/clean-dial?utm_source=company_github_readme) |
+| Daeda AI | Access to the latest AI models right inside your workflows | [Learn more](https://www.daeda.tech/projects/daeda-ai?utm_source=company_github_readme) |
 | Auto Associations Pro | Expanding object accociation capabilities | [Learn more](https://www.daeda.tech/projects/auto-association-pro?utm_source=company_github_readme) |
 | Daeda Notes | The best notes app for HubSpot workflows | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/daeda-notes?utm_source=company_github_readme) |
 | Association Viewer | Stop the association wild goose chase | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/daeda-association-viewer?utm_source=company_github_readme) |
 | Snippet Power Tools | Bulk edit your HubSpot snippets and save hours of time | [Learn more](https://snippetpowertools.com/?utm_source=company_github_readme) |
 | Daeda Screenshots | Take screenshots easily in workflow automations | [Learn more](https://www.daeda.tech/projects/daeda-screenshots?utm_source=company_github_readme) |
 | Daeda Ids | Need more ways to ID your records? Daeda IDs has you covered. | [Learn more](https://www.daeda.tech/projects/daeda-ids?utm_source=company_github_readme) |
+
+---
+### Our Chrome Extensions
+
+| Project | What it Does | Try It |
+|---------|-------------|--------|
+| HubSpot Theme Changer | Switch between dark mode, light mode, and custom color schemes | [Chrome Store](https://chromewebstore.google.com/detail/hubspot-theme-changer/pjndnibpagckfdcechcpbmoelmeenljc?utm_source=company_github_readme) |
+| HubSpot Custom NavBar | Personalize HubSpot's sidebar to match the way you work | [Chrome Store](https://chromewebstore.google.com/detail/hubspot-custom-navbar/lihcdhefkokkojkhjeecdkoingeebbmh?utm_source=company_github_readme) |
