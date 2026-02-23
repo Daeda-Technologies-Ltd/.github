@@ -29,8 +29,9 @@ Our [MCP server](https://www.npmjs.com/package/daeda-mcp) that syncs your HubSpo
 |---------|-------------|--------|
 | Daeda Essentials | Powerful workflow nodes to level-up your automation game | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/daeda-essentials?utm_source=company_github_readme) |
 | Smart Lead & Ticket Routing | Actions to make dealing with out of office easier | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/smart-lead-ticket-routing-by-daeda?utm_source=company_github_readme) |
-| Clean Dial | Validate and format phone numbers | [Learn more](https://www.daeda.tech/projects/clean-dial?utm_source=company_github_readme) |
-| Daeda AI | Access to the latest AI models right inside your workflows | [Learn more](https://www.daeda.tech/projects/daeda-ai?utm_source=company_github_readme) |
+| Clean Dial | Live check and format phone numbers | [Learn more](https://www.daeda.tech/projects/clean-dial?utm_source=company_github_readme) |
+| Daeda AI | Access to the latest AI models right inside your workflows | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/daeda-ai-by-daeda?utm_source=company_github_readme) |
+| Dynamic Dropdowns| Standardized dropdowns that kill data clutter | [Learn more](https://www.daeda.tech/projects/dynamic-dropdowns?utm_source=company_github_readme) |
 | Auto Associations Pro | Expanding object accociation capabilities | [Learn more](https://www.daeda.tech/projects/auto-association-pro?utm_source=company_github_readme) |
 | Daeda Notes | The best notes app for HubSpot workflows | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/daeda-notes?utm_source=company_github_readme) |
 | Association Viewer | Stop the association wild goose chase | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/daeda-association-viewer?utm_source=company_github_readme) |
